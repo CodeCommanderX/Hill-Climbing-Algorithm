@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "nqueen", "nqueen\nqueen.pyproj", "{1ECBBC80-8EDF-410E-B326-A8B86DBDD47F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECBBC80-8EDF-410E-B326-A8B86DBDD47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECBBC80-8EDF-410E-B326-A8B86DBDD47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38EA0035-2FCB-46DE-BC5C-F62952E8B6E0}
+	EndGlobalSection
+EndGlobal
